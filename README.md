@@ -10,9 +10,13 @@ Esmalt laadi alla ja paki kuhugi kausta lahti käesolev repositoorium koos kõig
 
 Seejärel leia ja ava nn Anaconda Prompt. Loo uus Anaconda keskkond, mille Pythoni versioon on 3.6.
 
+`conda create --name mcarto python=3.6`
+
 <img src="https://raw.githubusercontent.com/hvirro/mcarto/master/img/create_env.PNG" height="150">
 
 Järgmine rida aktiveerib äsjaloodud keskkonna.
+
+`activate mcarto`
 
 <img src="https://raw.githubusercontent.com/hvirro/mcarto/master/img/activate_env.PNG" height="150">
 
@@ -22,8 +26,8 @@ Nüüd tuleks installida vajalikud Pythoni teegid. Mõlema puhul tulevad kaasa k
 
 Järgnevalt määra aktiivseks kaustaks see, kuhu sai eelnevalt lahti pakitud antud GitHubi repositoorium.
 
-<img src="https://raw.githubusercontent.com/hvirro/mcarto/master/img/cd_folder.PNG" height="150">
+`cd C:\Users\Holger\mcarto-master\mcarto-master`
 
 Lõpuks aktiveeri Jupyteri Notebook.
 
-<img src="https://raw.githubusercontent.com/hvirro/mcarto/master/img/jupyter.PNG" height="150">
+`jupyter notebook`
