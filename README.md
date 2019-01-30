@@ -1,5 +1,5 @@
 # Matemaatiline kartograafia 2019
-Antud juhendid toetavad geograafia eriala magistriõppe kursust Matemaatiline kartograafia LOOM.02.007 ja keskenduvad Pythoni matemaatilise kartograafia ja visualiseerimise teegi [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) võimalustele.
+Antud juhendid toetavad geograafia eriala magistriõppe kursust <b>Matemaatiline kartograafia LOOM.02.007</b> ja keskenduvad Pythoni matemaatilise kartograafia ja visualiseerimise teegi [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) võimalustele.
 
 [Esimene](https://github.com/hvirro/mcarto/blob/master/Kaardiakna-juhtimine.ipynb) juhend annab ülevaate kaardiakna loomisest, erinevate projektsioonide kasutamisest ja lihtsamate kaardielementide (kaardivõrk, tekst) konstrueerimisest. [Teine](https://github.com/hvirro/mcarto/blob/master/Kaardielemendid.ipynb) juhend keskendub täiendavate kaardielementide lisamisele, mille hulka kuuluvad nii lisadetailid (punkttähised, tekst ja legend) kui erinevad matemaatilised ja kartograafilised konstruktsioonid (ortodroom jms).
 
