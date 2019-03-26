@@ -20,7 +20,7 @@ Järgmine rida aktiveerib äsjaloodud keskkonna.
 
 <img src="https://raw.githubusercontent.com/hvirro/mcarto/master/img/activate_env.PNG" height="150">
 
-Nüüd tuleks installida vajalikud Pythoni teegid. Mõlema puhul tulevad kaasa ka mitmed muud teegid, sh Cartopy (`conda install cartopy`) puhul [Matplotlib](https://matplotlib.org/), millele see tugineb.
+Nüüd tuleks installida vajalikud Pythoni teegid (Jupyter ja Cartopy). Mõlema puhul tulevad kaasa ka mitmed muud teegid, sh Cartopy (`conda install cartopy`) puhul [Matplotlib](https://matplotlib.org/), millele see tugineb.
 
 <img src="https://raw.githubusercontent.com/hvirro/mcarto/master/img/conda_install.PNG" height="150">
 
