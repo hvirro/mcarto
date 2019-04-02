@@ -32,4 +32,6 @@ Lõpuks aktiveeri Jupyteri Notebook.
 
 `jupyter notebook`
 
+Avaneb brauser, kus klõps failil laiendiga *.ipynb* avab vastava töövihiku, mida saab brauseri aknas kasutama hakata.
+
 <img src="https://raw.githubusercontent.com/hvirro/mcarto/master/img/browser.PNG" height="150">
