@@ -31,3 +31,5 @@ Järgnevalt määra aktiivseks kaustaks see, kuhu sai eelnevalt lahti pakitud an
 Lõpuks aktiveeri Jupyteri Notebook.
 
 `jupyter notebook`
+
+<img src="https://raw.githubusercontent.com/hvirro/mcarto/master/img/browser.PNG" height="150">
